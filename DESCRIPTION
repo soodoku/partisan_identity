@@ -1,0 +1,31 @@
+Package: partisanIdentity
+Type: Project
+Title: Misperceptions about Party Composition and Partisan Identification
+Version: 1.0.0
+Authors@R: c(
+    person("Douglas J.", "Ahler", role = "aut"),
+    person("Gaurav", "Sood", role = c("aut", "cre"), email = "gsood07@gmail.com")
+  )
+Description: Data, analyses and manuscript for a 2018 TESS survey experiment
+    that corrected weak and leaning partisans' overestimates of party-stereotypical
+    groups in their own party and measured the effect on partisan attachment.
+Encoding: UTF-8
+Depends: R (>= 4.4.0)
+Imports:
+    broom,
+    dplyr,
+    estimatr,
+    ggplot2,
+    kableExtra,
+    knitr,
+    purrr,
+    readr,
+    rprojroot,
+    tibble,
+    tidyr
+Suggests:
+    haven,
+    lintr,
+    renv,
+    styler,
+    testthat

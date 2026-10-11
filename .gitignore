@@ -1,0 +1,17 @@
+.Rhistory
+.RData
+.Rproj.user/
+.Rlib/
+renv/library/
+renv/staging/
+.DS_Store
+ms/*.aux
+ms/*.bbl
+ms/*.blg
+ms/*.fdb_latexmk
+ms/*.fls
+ms/*.log
+ms/*.out
+ms/*.xdv
+ms/*.synctex.gz
+.Rbuildignore
