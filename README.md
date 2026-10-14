@@ -57,3 +57,7 @@ make check     # analysis, figures, tables, manuscript, lint, tests
 | `tabs/`, `figs/` | Generated estimates, tables, figures and manuscript macros |
 | `ms/` | `main.tex`, `references.bib`, and the compiled `main.pdf` |
 | `tests/testthat/` | Recode unit tests, checks on the estimates and the manuscript's numbers, and privacy checks |
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
